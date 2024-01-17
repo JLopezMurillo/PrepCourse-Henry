@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Esto es un repositorio para henry
+Este proyecto es una prueba de como clonar.
+Juan Pablo Lopez Murillo
